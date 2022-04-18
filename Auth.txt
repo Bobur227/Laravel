@@ -1,0 +1,8 @@
+Admin
+login: admin@gmail.com
+password:1234
+___________
+
+Guest
+login: bobur777@gmail.com
+password:123
